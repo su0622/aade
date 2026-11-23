@@ -6,8 +6,16 @@
 
 分开记录事件顺序和类别键，并判断哪一个控制主视线。分轨或分区保持两种关系都可查找。
 
-## 案例
+## 课件案例
 
-待收录可核验的对应案例。
+- [Picasso绘画创作分布](11-1-Picasso绘画创作分布/案例分析.md) · 第 11 页
+- [CrowdStrike行业与地理环形版本](36-2-CrowdStrike行业与地理环形版本/案例分析.md) · 第 36 页
+- [Cosmic Journeys](37-2-Cosmic%20Journeys/案例分析.md) · 第 37 页
+- [早晨三个时窗活动图](50-2-早晨三个时窗活动图/案例分析.md) · 第 50 页
+- [美国总统视觉历史](51-2-美国总统视觉历史/案例分析.md) · 第 51 页
+- [Bauhaus时期与作品](52-1-Bauhaus时期与作品/案例分析.md) · 第 52 页
+- [Evolution of an Economy](66-1-Evolution%20of%20an%20Economy/案例分析.md) · 第 66 页
 
-[参考仓库标签说明](https://github.com/fengbaifan/Infographic-Style-Repository/blob/2c36d209e0ad349f3e878b0be6e23a38d4acb342/02-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E7%B1%BB%E5%9E%8B%E6%A1%88%E4%BE%8B/15-%E7%BC%96%E5%B9%B4%E7%BC%96%E7%9B%AE%E5%A4%8D%E5%90%88%E5%9E%8B-Hybrid/00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md)
+## 跨案例归纳
+
+分表管理时间、类别、主体与状态；依据主图阅读任务决定哪一维主导，再在同一版面保留另一维的入口。

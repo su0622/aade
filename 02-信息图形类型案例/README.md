@@ -27,3 +27,7 @@
 ## 参考仓库对照
 
 对照了 [参考仓库的 02 目录](https://github.com/fengbaifan/Infographic-Style-Repository/tree/main/02-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E7%B1%BB%E5%9E%8B%E6%A1%88%E4%BE%8B)。已有的前三个标签补充分析要点，其余十四个标签补齐目录和说明。参考仓库唯一完整案例与本站 Fortune 500 案例相同，合并来源和分析，地标型目录提供交叉入口。
+
+## 课件归档
+
+[第三讲课件入库记录](课件入库记录.md) · 98 幅图件，逐图附 Markdown 分析、数据表和 CSV。
