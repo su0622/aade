@@ -8,3 +8,9 @@
 
 - [包豪斯与格罗皮乌斯](包豪斯与格罗皮乌斯/案例分析.md)
 - [电视节目年代轴](电视节目年代轴/案例分析.md)
+
+## 分析与制作要点
+
+分开记录时间点、起止区间和主体分轨。需要读出时长时，轴位置按时间尺度映射，并说明精度和断轴。阶段顺序与事件因果分别记录。
+
+[参考仓库标签说明](https://github.com/fengbaifan/Infographic-Style-Repository/blob/2c36d209e0ad349f3e878b0be6e23a38d4acb342/02-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E7%B1%BB%E5%9E%8B%E6%A1%88%E4%BE%8B/03-%E6%97%B6%E9%97%B4%E8%BD%B4%E5%9E%8B-Timeline/00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md)
