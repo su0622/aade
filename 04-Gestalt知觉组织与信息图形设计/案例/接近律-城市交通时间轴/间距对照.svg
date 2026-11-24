@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 448" role="img" aria-labelledby="title description">
+  <title id="title">城市交通时间轴间距对照</title>
+  <desc id="description">两条时间轴都包含相同的四个节点。A版事件标题位于相邻年份之间，B版每个标题靠近所属年份。2016年启动试点，2018年开设专线，2020年新增站点，2022年接入枢纽。</desc>
+  <rect width="920" height="448" fill="#f3f6f8"/>
+  <g font-family="system-ui, sans-serif" fill="#162a3b" font-size="17">
+  <text x="24" y="39" font-size="25" font-weight="700">城市交通时间轴间距对照</text>
+  <text x="24" y="62" font-size="14">模拟数据 · 年份刻度、事件顺序与文字样式相同</text>
+  <g transform="translate(0 82)">
+    <rect x="24" y="0" width="872" height="154" rx="8" fill="#fff" stroke="#c5ced6"/>
+    <text x="48" y="32" font-size="18" font-weight="700">A · 事件标题位于相邻年份之间</text>
+    <path d="M92 83H833" stroke="#708090" stroke-width="2"/>
+    <g><text x="120" y="67" text-anchor="middle">2016</text><circle cx="120" cy="83" r="4" fill="#175d8f"/><text x="205" y="118" text-anchor="middle">启动试点</text></g>
+    <g><text x="304" y="67" text-anchor="middle">2018</text><circle cx="304" cy="83" r="4" fill="#175d8f"/><text x="389" y="118" text-anchor="middle">开设专线</text></g>
+    <g><text x="488" y="67" text-anchor="middle">2020</text><circle cx="488" cy="83" r="4" fill="#175d8f"/><text x="573" y="118" text-anchor="middle">新增站点</text></g>
+    <g><text x="672" y="67" text-anchor="middle">2022</text><circle cx="672" cy="83" r="4" fill="#175d8f"/><text x="757" y="118" text-anchor="middle">接入枢纽</text></g>
+  </g>
+  <g transform="translate(0 258)">
+    <rect x="24" y="0" width="872" height="154" rx="8" fill="#fff" stroke="#c5ced6"/>
+    <text x="48" y="32" font-size="18" font-weight="700">B · 标题靠近对应年份</text>
+    <path d="M92 83H833" stroke="#708090" stroke-width="2"/>
+    <g><text x="120" y="67" text-anchor="middle">2016</text><circle cx="120" cy="83" r="4" fill="#175d8f"/><text x="132" y="118" text-anchor="middle">启动试点</text></g>
+    <g><text x="304" y="67" text-anchor="middle">2018</text><circle cx="304" cy="83" r="4" fill="#175d8f"/><text x="316" y="118" text-anchor="middle">开设专线</text></g>
+    <g><text x="488" y="67" text-anchor="middle">2020</text><circle cx="488" cy="83" r="4" fill="#175d8f"/><text x="500" y="118" text-anchor="middle">新增站点</text></g>
+    <g><text x="672" y="67" text-anchor="middle">2022</text><circle cx="672" cy="83" r="4" fill="#175d8f"/><text x="684" y="118" text-anchor="middle">接入枢纽</text></g>
+  </g>
+  </g>
+</svg>
